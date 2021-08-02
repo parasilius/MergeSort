@@ -13,7 +13,7 @@ whatever...!) but I don't recommend giving it long lists of numbers...
 ## How to use it?!
 It's super easy! Just go ahead and open a terminal and type these three
 commands:  
-```
+```Bash
 $ git clone https://github.com/DrNakiz/MergeSort.git
 $ cd MergeSort
 $ python3 CLI.py
